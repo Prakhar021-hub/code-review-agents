@@ -28,8 +28,6 @@ dev = [
 [project.scripts]
 review = "code_review_agents.cli:main"
 
-[tool.pytest.ini_options]
-testpaths = ["tests"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
